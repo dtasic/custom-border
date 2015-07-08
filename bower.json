@@ -1,0 +1,26 @@
+{
+  "name": "custom-border",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dtasic/custom-border",
+  "authors": [
+    "Dejan Tasic <dtasic@gmail.com>"
+  ],
+  "description": "add custom border to any div",
+  "main": "jquery.custom-border.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "'custom",
+    "border'",
+    "border"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
