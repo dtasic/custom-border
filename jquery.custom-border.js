@@ -7,6 +7,8 @@
 
     $.fn.customBorder = function (options) {
 
+        'use strict';
+
         var currentelem = 1;
 
         this.each(function(){
