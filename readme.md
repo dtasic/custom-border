@@ -4,7 +4,7 @@ Small Jquery plugin to add custom border with image pattern to any div.
 
 ### What is this repository for? ###
 
-* Small Jquery plugin to add custom border button to any div.
+* Small Jquery plugin to add custom border with image pattern to any div.
 * 1.0
 
 ### How do I get set up? ###
