@@ -18,7 +18,7 @@ Small Jquery plugin to add custom border with image pattern to any div.
 * borderSize (default: '5px') // width of custom border
 * borderBgImg (default: '') // image filename with relative image path ('path/to/file/example.png')
 * borderColor (default: '') // solid background color, just in case you need it
-* backgroundColor (default: '') // change background color of element
+* backgroundColor (default: inherit from element. If none or transparent it will be changed to '#FFF') // change background color of element
 * innerPadding (default: '') // change padding of element
 
 example of options:
@@ -28,7 +28,7 @@ $("#your-element").customBorder({
     borderSize: '5px',
     borderBgImg: '',
     borderColor: '',
-    backgroundColor: currbgcolor,
+    backgroundColor: '',
     innerPadding: ''
 });
 
