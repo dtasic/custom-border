@@ -36,7 +36,7 @@ $("#your-element").customBorder({
 
 ### Demo ###
 
-soon
+https://jsfiddle.net/308772ye/2/
 
 ### Who do I talk to? ###
 
